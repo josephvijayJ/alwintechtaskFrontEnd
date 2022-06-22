@@ -1,0 +1,15 @@
+.label-container {
+  border: 1px solid gray;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 200px;
+  margin-left: 500px;
+  width: 40%;
+}
+
+.errorColor {
+  color: brown;
+  font-style: italic;
+}
